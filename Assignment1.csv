@@ -1,0 +1,65 @@
+movieID,title,studio,genres,directors,writers,actors,year,length,shortDescription,mpaRating,criticsRating
+1,Star Wars: Episode V - The Empire Strikes Back,Twentieth Century Fox,"Action, Adventure, Fantasty",Irvin Kershner,"Leigh Brackett, 
+Lawrence Kasdan,
+George Lucas","Mark Hamill,
+Harrison Ford,
+Carrie Fisher",1980,124,"After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",PG,8.7
+2,The Matrix,Warner Bros. Pictures,"Action,
+Sci-Fi","Lana Wachowski,
+Lilly Wachowski","Lana Wachowski,
+Lilly Wachowski","Keanu Reaves,
+Laurence Fishburne,
+Carrie-Anne Moss",1999,136,"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",R,8.7
+3,Star Wars: Episode IV - A New Hope,Twentieth Century Fox,"Action, Adventure, Fantasty",George Lucas,George Lucas,"Mark Hamill,
+Harrison Ford,
+Carrie Fisher",1977,121,"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",PG,8.6
+4,Back to the Future,Universal Pictures,"Adventure,
+Comedy,
+Sci-Fi",Robert Zemeckis,"Robet Zemeckis,
+Bob Gale","Michael J. Fox,
+Christopher Lloyd,
+Lea Thompson",1985,116,"Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",PG,8.5
+5,Alien,Twentieth Century Fox,"Horror,
+Sci-Fi",Ridley Scott,"Dan O'Bannon,
+Ronald Shusett","Sigourney Weaver,
+Tom Skerritt,
+John Hurt",1979,117,The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.,R,8.5
+6,Raiders of th Lost Ark,Paramount Pictures,"Action, Adventure",Steven Spielberg,"Lawrence Kasdan, 
+George Lucas, 
+Philip Kaufman","Harrison Ford, 
+Karen Allen,
+Paul Freeman",1981,115,"In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",PG,8.4
+7,Blade Runner,Warner Bros. Pictures,"Action, Drama,
+Sci-Fi",Ridley Scott,"Hampton Fancher, 
+David Webb Peoples, 
+Philip K. Dick","Harrison Ford, 
+Rutger Hauer, 
+Sean Young",1982,117,A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.,R,8.1
+8,The Terminator,Orion Pictures,"Action,
+Sci-Fi",James Cameron,"James Cameron,
+Gale Anne Hurd,
+William Wisher","Arnold Schwarzenegger, 
+Linda Hamilton, 
+Michael Biegn",1984,107,"A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",R,8.1
+9,The Princess Bride,Twentieth Century Fox,"Adventure,
+Comedy,
+Family",Rob Reiner,William Goldman,"Cary Elwes,
+Mandy Patinkin,
+Robin Wright",1987,98,"A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",PG,8.0
+10,Star Trek II: The Wrath of Khan,Paramount Pictures,"Action,
+Adventure,
+Sci-Fi",Nicholas Meyer,"Gene Roddenberry,
+Jack B. Sowards,
+Harve Bennett","William Shatner,
+Leonard Nimoy,
+DeForest Kelley",1982,113,"With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",PG,7.7
+11, Lagaan: once uppon a time I india,Amir khan productions,"Drama,romance,sport,music",AshutoshGowariker,"Ashutosh,Abbas","Amir khan,gracy singh",2001,224 min,"in 1890s India a young farmer leads a rebellion against the british raj by challenging them to a game of cricket,resulting in unexpected consequences and cultural transformation.",PG,8.7
+12,Rang de basanti,UTV motion pictures,Drama,Rakeysh mehra,Rakyesh mehra,"Amir khan,soha ali khan",2006,167 min,"A group of universit students with no political affliations becomes politically active when they are cast as revolutionaries in a documentary film,ultimately inspiring them to take real life ation against corruption and injustice.",R,8.7
+13,Gangs of wasseypur,Anurag kashyap films,"Action,crime,        Drama",Anurag kayshap,Anurag kayshap,"Manoj,richa chddha",2012,321 min,A gripping saga of vengeance and power struggles spanning multiple generation in the coal mafia of wasseypur.,R,8.6
+14,3 Idiots,vinod chopra production,"Comedy,Drama",Rajkumar hirani,Rajkumar hirani,"Amir khan,sharman joshi",2009,170 min,"Two friends embark on a quest to find their long-lost college companion and radiscover their purpose in life, challenging the conventional nors of society and education in the process.",PG,8.5
+15,Dil wale dulhania le jayenge,Yash raj films,"Drama,Romance ",Aditya chopra,Aditya chopra,"Shahrukh khan, kajol",1995,189 min,A young man tries to win the approval of his girlfriend's traditional Indian father.,R,8.5
+16,The godfather,Paramount Pictures,"Crime,Drama",Francis Ford,Mario puzo ,Marlon brando,1972,175 min,"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son,trigerring a series of events and a struggle for power.",PG,8.4
+17,The shawshank Redemption,castle rock entertainment,Drama,Frank darabont,Stephen king,"Tim robbins,Morgan ",1994,142 min,two imprisoned men forge a lifelong friendship as they find solace and redemption through acts of common decency.,R,8.1
+18,Sholay,Ramesh sippy,"Action,Drama",Ramesh sippy,"Salim khan,javed akhtar",Amitabh Bachhan,1975,204 min,Two criminals veeru and jai are hired by a retierd police officer to capture the ruthless dacoit gabbar singh.,R,8.1
+19,Taare zameen par,Amir khan productions,"Drama,Family",Amir khan,Amole Gupte,"Darsheel,amir khan",2007,165,A dyslexic child find solace and understanding with an unconventional art teacher who helps him overcome his learning difficulties,R,8.0
+20,baahubali,Arka Media Works,"Action,Drama",S.S Rajamouli,K.V Prasad,"Prabhas,Tamanna bhatia",2015,159 min,"In ancient india,a young prince embarks on a perilous journey to rescue his captive mother and reclaim his kingdom from an evil emperor, unveiling shocking truths along the way.",sPG,7.7
